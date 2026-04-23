@@ -20,7 +20,6 @@ com/cosmetics/entity/User.class
 com/cosmetics/repository/OrderRepository.class
 com/cosmetics/config/WebConfig.class
 com/cosmetics/entity/CartItem.class
-com/cosmetics/security/WebSecurityConfig.class
 com/cosmetics/controller/CategoryController.class
 com/cosmetics/security/JwtUtils.class
 com/cosmetics/dto/OrderDTO.class

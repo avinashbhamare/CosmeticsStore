@@ -1,0 +1,18 @@
+echo "# Compiled class files" > .gitignore
+echo "**/target/" >> .gitignore
+echo "*.class" >> .gitignore
+echo "" >> .gitignore
+echo "# IDE files" >> .gitignore
+echo ".idea/" >> .gitignore
+echo "*.iml" >> .gitignore
+echo ".vscode/" >> .gitignore
+echo ".settings/" >> .gitignore
+echo ".project" >> .gitignore
+echo ".classpath" >> .gitignore
+echo "" >> .gitignore
+echo "# Node modules" >> .gitignore
+echo "node_modules/" >> .gitignore
+echo "" >> .gitignore
+echo "# Logs & temp" >> .gitignore
+echo "*.log" >> .gitignore
+echo "*.tmp" >> .gitignore

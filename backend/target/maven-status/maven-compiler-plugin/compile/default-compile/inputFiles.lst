@@ -15,6 +15,7 @@
 /mnt/c/Users/KIIT0001/OneDrive/Desktop/CosmeticsStore/backend/src/main/java/com/cosmetics/controller/CartController.java
 /mnt/c/Users/KIIT0001/OneDrive/Desktop/CosmeticsStore/backend/src/main/java/com/cosmetics/entity/Order.java
 /mnt/c/Users/KIIT0001/OneDrive/Desktop/CosmeticsStore/backend/src/main/java/com/cosmetics/dto/AddToCartRequest.java
+/mnt/c/Users/KIIT0001/OneDrive/Desktop/CosmeticsStore/backend/src/main/java/com/cosmetics/security/AuthEntryPointJwt.java
 /mnt/c/Users/KIIT0001/OneDrive/Desktop/CosmeticsStore/backend/src/main/java/com/cosmetics/dto/MessageResponse.java
 /mnt/c/Users/KIIT0001/OneDrive/Desktop/CosmeticsStore/backend/src/main/java/com/cosmetics/CosmeticsStoreApplication.java
 /mnt/c/Users/KIIT0001/OneDrive/Desktop/CosmeticsStore/backend/src/main/java/com/cosmetics/controller/ProductController.java
@@ -30,6 +31,7 @@
 /mnt/c/Users/KIIT0001/OneDrive/Desktop/CosmeticsStore/backend/src/main/java/com/cosmetics/entity/User.java
 /mnt/c/Users/KIIT0001/OneDrive/Desktop/CosmeticsStore/backend/src/main/java/com/cosmetics/repository/UserRepository.java
 /mnt/c/Users/KIIT0001/OneDrive/Desktop/CosmeticsStore/backend/src/main/java/com/cosmetics/entity/OrderItem.java
+/mnt/c/Users/KIIT0001/OneDrive/Desktop/CosmeticsStore/backend/src/main/java/com/cosmetics/config/DataInitializer.java
 /mnt/c/Users/KIIT0001/OneDrive/Desktop/CosmeticsStore/backend/src/main/java/com/cosmetics/entity/Category.java
 /mnt/c/Users/KIIT0001/OneDrive/Desktop/CosmeticsStore/backend/src/main/java/com/cosmetics/service/AuthService.java
 /mnt/c/Users/KIIT0001/OneDrive/Desktop/CosmeticsStore/backend/src/main/java/com/cosmetics/controller/OrderController.java
